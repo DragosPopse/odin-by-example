@@ -1,0 +1,9 @@
+{
+    "dict1": {
+        "val1": 32,
+        "val2": true,
+        "val3": "Cool"
+    },
+
+    "arr1": [12, "coolio", false]
+}
