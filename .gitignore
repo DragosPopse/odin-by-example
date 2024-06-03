@@ -1,0 +1,11 @@
+# Ignore everything
+*
+# But descend into directories
+!*/
+
+!README.md
+!.gitignore
+*.exe
+
+!hello_world/**
+!json/**
